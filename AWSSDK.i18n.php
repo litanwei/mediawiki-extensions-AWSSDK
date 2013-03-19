@@ -1,7 +1,18 @@
 <?php
+/**
+ * Internationalisation for Amazon Web Services SDK extension
+ *
+ * @file
+ * @ingroup Extensions
+ */
 
 $messages = array();
 
+/** English */
 $messages['en'] = array(
-	'awssdk-desc' => 'This plugin provides extensions with the ability to use the Amazon Web Services SDK for PHP.'
+	'awssdk-desc' => 'Plugin for using the Amazon Web Services SDK for PHP'
+);
+
+$messages['qqq'] = array(
+	'awssdk-desc' => '{{desc}}'
 );

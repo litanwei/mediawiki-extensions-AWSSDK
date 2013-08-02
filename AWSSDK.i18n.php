@@ -19,6 +19,13 @@ $messages['qqq'] = array(
 	'awssdk-desc' => '{{desc}}',
 );
 
+/** Asturian (asturianu)
+ * @author Xuacu
+ */
+$messages['ast'] = array(
+	'awssdk-desc' => "Complementu pa usar el SDK d'Amazon Web Services pa PHP",
+);
+
 /** German (Deutsch)
  * @author Metalhead64
  */
@@ -26,9 +33,52 @@ $messages['de'] = array(
 	'awssdk-desc' => 'Plugin zur Verwendung des Amazon-Web-Services-SDK für PHP',
 );
 
+/** French (français)
+ * @author Gomoko
+ */
+$messages['fr'] = array(
+	'awssdk-desc' => 'Module complémentaire pour utiliser le SDK pour PHP des services web d’Amazon',
+);
+
+/** Galician (galego)
+ * @author Toliño
+ */
+$messages['gl'] = array(
+	'awssdk-desc' => 'Complemento para utilizar o SDK para o PHP dos servizos web de Amazon',
+);
+
+/** Italian (italiano)
+ * @author Beta16
+ */
+$messages['it'] = array(
+	'awssdk-desc' => "Plugin per l'utilizzo di Amazon Web Services SDK per PHP",
+);
+
+/** Japanese (日本語)
+ * @author Shirayuki
+ */
+$messages['ja'] = array(
+	'awssdk-desc' => 'Amazon Web Services SDK for PHP を使用するためのプラグイン',
+);
+
+/** Macedonian (македонски)
+ * @author Bjankuloski06
+ */
+$messages['mk'] = array(
+	'awssdk-desc' => 'Приклучок што користи Amazon Web Services SDK за PHP',
+);
+
+/** tarandíne (tarandíne)
+ * @author Joetaras
+ */
+$messages['roa-tara'] = array(
+	'awssdk-desc' => "Plugin pe ausà l'SDK pe le Site Web de Amazon pe PHP",
+);
+
 /** Ukrainian (українська)
+ * @author Andriykopanytsia
  * @author Ата
  */
 $messages['uk'] = array(
-	'awssdk-desc' => 'Плагін для використання Amazon Web Services SDK для PHP',
+	'awssdk-desc' => 'Плагін для використання Amazon Web Services SDK під PHP',
 );

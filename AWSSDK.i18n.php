@@ -47,6 +47,13 @@ $messages['gl'] = array(
 	'awssdk-desc' => 'Complemento para utilizar o SDK para o PHP dos servizos web de Amazon',
 );
 
+/** Interlingua (interlingua)
+ * @author McDutchie
+ */
+$messages['ia'] = array(
+	'awssdk-desc' => 'Modulo pro utilisar le SDK de Amazon Web Services pro PHP',
+);
+
 /** Italian (italiano)
  * @author Beta16
  */

@@ -89,3 +89,10 @@ $messages['roa-tara'] = array(
 $messages['uk'] = array(
 	'awssdk-desc' => 'Плагін для використання Amazon Web Services SDK під PHP',
 );
+
+/** Simplified Chinese (中文（简体）‎)
+ * @author Liuxinyu970226
+ */
+$messages['zh-hans'] = array(
+	'awssdk-desc' => '为PHP使用亚马逊网际网络服务SDK的插件',
+);

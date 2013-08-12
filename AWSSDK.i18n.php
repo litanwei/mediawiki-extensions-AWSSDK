@@ -14,9 +14,10 @@ $messages['en'] = array(
 );
 
 /** Message documentation (Message documentation)
+ * @author Shirayuki
  */
 $messages['qqq'] = array(
-	'awssdk-desc' => '{{desc}}',
+	'awssdk-desc' => '{{desc|name=AWS SDK|url=http://www.mediawiki.org/wiki/Extension:AWSSDK}}',
 );
 
 /** Asturian (asturianu)

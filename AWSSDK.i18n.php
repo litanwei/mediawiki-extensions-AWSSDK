@@ -27,6 +27,13 @@ $messages['ast'] = array(
 	'awssdk-desc' => "Complementu pa usar el SDK d'Amazon Web Services pa PHP",
 );
 
+/** Bikol Central (Bikol Central)
+ * @author Geopoet
+ */
+$messages['bcl'] = array(
+	'awssdk-desc' => 'Panaksakan para sa paggagamit sa mga Serbisyo kan Amazon Web na SDK para sa PHP',
+);
+
 /** German (Deutsch)
  * @author Metalhead64
  */
@@ -74,6 +81,13 @@ $messages['ja'] = array(
  */
 $messages['mk'] = array(
 	'awssdk-desc' => 'Приклучок што користи Amazon Web Services SDK за PHP',
+);
+
+/** Occitan (occitan)
+ * @author Cedric31
+ */
+$messages['oc'] = array(
+	'awssdk-desc' => 'Modul complementari per utilizar lo SDK per PHP dels servicis web d’Amazon',
 );
 
 /** tarandíne (tarandíne)

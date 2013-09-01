@@ -76,6 +76,13 @@ $messages['ja'] = array(
 	'awssdk-desc' => 'Amazon Web Services SDK for PHP を使用するためのプラグイン',
 );
 
+/** Korean (한국어)
+ * @author 아라
+ */
+$messages['ko'] = array(
+	'awssdk-desc' => 'PHP용 아마존 웹 서비스 SDK를 사용하기 위한 플러그인',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */

@@ -83,6 +83,13 @@ $messages['ko'] = array(
 	'awssdk-desc' => 'PHP용 아마존 웹 서비스 SDK를 사용하기 위한 플러그인',
 );
 
+/** Colognian (Ripoarisch)
+ * @author Purodha
+ */
+$messages['ksh'] = array(
+	'awssdk-desc' => 'Zohsaz för der <i lang="en" xml:lang="en">Web Services SDK for PHP</i> vun <i lang="en" xml:lang="en">Amazon </i> ze bruche.',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */
@@ -95,6 +102,13 @@ $messages['mk'] = array(
  */
 $messages['oc'] = array(
 	'awssdk-desc' => 'Modul complementari per utilizar lo SDK per PHP dels servicis web d’Amazon',
+);
+
+/** Brazilian Portuguese (português do Brasil)
+ * @author Cainamarques
+ */
+$messages['pt-br'] = array(
+	'awssdk-desc' => 'Plugin para a utilização do Amazon Web Services SDK para PHP',
 );
 
 /** tarandíne (tarandíne)

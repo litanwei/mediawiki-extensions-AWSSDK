@@ -104,6 +104,13 @@ $messages['mk'] = array(
 	'awssdk-desc' => 'Приклучок што користи Amazon Web Services SDK за PHP',
 );
 
+/** Dutch (Nederlands)
+ * @author Southparkfan
+ */
+$messages['nl'] = array(
+	'awssdk-desc' => 'Plug-in voor het gebruiken van Amazon Web Services SDK voor PHP',
+);
+
 /** Occitan (occitan)
  * @author Cedric31
  */

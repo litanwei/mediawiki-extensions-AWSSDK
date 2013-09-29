@@ -132,6 +132,13 @@ $messages['roa-tara'] = array(
 	'awssdk-desc' => "Plugin pe ausà l'SDK pe le Site Web de Amazon pe PHP",
 );
 
+/** Russian (русский)
+ * @author Okras
+ */
+$messages['ru'] = array(
+	'awssdk-desc' => 'Плагин для использования Amazon Web Services SDK для PHP',
+);
+
 /** Ukrainian (українська)
  * @author Andriykopanytsia
  * @author Ата

@@ -139,6 +139,13 @@ $messages['ru'] = array(
 	'awssdk-desc' => 'Плагин для использования Amazon Web Services SDK для PHP',
 );
 
+/** Swedish (svenska)
+ * @author LittleGun
+ */
+$messages['sv'] = array(
+	'awssdk-desc' => 'Insticksmodul till Amazon Web Services SDK för PHP',
+);
+
 /** Ukrainian (українська)
  * @author Andriykopanytsia
  * @author Ата

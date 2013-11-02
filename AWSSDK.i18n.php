@@ -48,6 +48,13 @@ $messages['es'] = array(
 	'awssdk-desc' => 'Plugin para usar el SDK de Amazon Web Services para PHP',
 );
 
+/** Persian (فارسی)
+ * @author Ebraminio
+ */
+$messages['fa'] = array(
+	'awssdk-desc' => 'افزونه‌ای برای استفاده از خدمات وبی کیت توسعهٔ نرم‌افزاری آمازون برای پی‌اچ‌پی',
+);
+
 /** French (français)
  * @author Gomoko
  */

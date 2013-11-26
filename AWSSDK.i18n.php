@@ -41,6 +41,13 @@ $messages['de'] = array(
 	'awssdk-desc' => 'Plugin zur Verwendung des Amazon-Web-Services-SDK für PHP',
 );
 
+/** Lower Sorbian (dolnoserbski)
+ * @author Michawiki
+ */
+$messages['dsb'] = array(
+	'awssdk-desc' => 'Tykac za wužywanje Amazon Web Services SDK za PHP',
+);
+
 /** Spanish (español)
  * @author VegaDark
  */
@@ -67,6 +74,13 @@ $messages['fr'] = array(
  */
 $messages['gl'] = array(
 	'awssdk-desc' => 'Complemento para utilizar o SDK para o PHP dos servizos web de Amazon',
+);
+
+/** Upper Sorbian (hornjoserbsce)
+ * @author Michawiki
+ */
+$messages['hsb'] = array(
+	'awssdk-desc' => 'Tykač za wužiwanje Amazon Web Services SDK za PHP',
 );
 
 /** Interlingua (interlingua)

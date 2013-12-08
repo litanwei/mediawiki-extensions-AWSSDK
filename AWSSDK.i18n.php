@@ -167,6 +167,13 @@ $messages['sv'] = array(
 	'awssdk-desc' => 'Insticksmodul till Amazon Web Services SDK för PHP',
 );
 
+/** Turkish (Türkçe)
+ * @author Joseph
+ */
+$messages['tr'] = array(
+	'awssdk-desc' => "PHP için Amazon Web Servisleri SDK'sı kullanmak için eklenti",
+);
+
 /** Ukrainian (українська)
  * @author Andriykopanytsia
  * @author Ата

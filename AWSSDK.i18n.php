@@ -139,6 +139,13 @@ $messages['oc'] = array(
 	'awssdk-desc' => 'Modul complementari per utilizar lo SDK per PHP dels servicis web d’Amazon',
 );
 
+/** Portuguese (português)
+ * @author Giro720
+ */
+$messages['pt'] = array(
+	'awssdk-desc' => 'Plugin para a utilização do Amazon Web Services SDK para PHP',
+);
+
 /** Brazilian Portuguese (português do Brasil)
  * @author Cainamarques
  */

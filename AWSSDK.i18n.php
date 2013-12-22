@@ -34,6 +34,13 @@ $messages['bcl'] = array(
 	'awssdk-desc' => 'Panaksakan para sa paggagamit sa mga Serbisyo kan Amazon Web na SDK para sa PHP',
 );
 
+/** Catalan (català)
+ * @author Alvaro Vidal-Abarca
+ */
+$messages['ca'] = array(
+	'awssdk-desc' => "Extensió per utilitzar l'SDK d'Amazon Web Services per PHP",
+);
+
 /** German (Deutsch)
  * @author Metalhead64
  */

@@ -174,6 +174,13 @@ $messages['ru'] = array(
 	'awssdk-desc' => 'Плагин для использования Amazon Web Services SDK для PHP',
 );
 
+/** Scots (Scots)
+ * @author John Reid
+ */
+$messages['sco'] = array(
+	'awssdk-desc' => 'Plug-in fer uising the Amazon Wab Services SDK fer PHP',
+);
+
 /** Swedish (svenska)
  * @author LittleGun
  */

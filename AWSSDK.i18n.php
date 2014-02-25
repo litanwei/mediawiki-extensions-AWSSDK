@@ -83,6 +83,13 @@ $messages['gl'] = array(
 	'awssdk-desc' => 'Complemento para utilizar o SDK para o PHP dos servizos web de Amazon',
 );
 
+/** Hebrew (עברית)
+ * @author Yona b
+ */
+$messages['he'] = array(
+	'awssdk-desc' => 'תוסף לשימוש ב־SDK של אתר אמאזון עבור PHP',
+);
+
 /** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */

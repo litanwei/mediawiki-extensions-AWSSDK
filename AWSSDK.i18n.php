@@ -132,6 +132,13 @@ $messages['ksh'] = array(
 	'awssdk-desc' => 'Zohsaz för der <i lang="en" xml:lang="en">Web Services SDK for PHP</i> vun <i lang="en" xml:lang="en">Amazon </i> ze bruche.',
 );
 
+/** Luxembourgish (Lëtzebuergesch)
+ * @author Robby
+ */
+$messages['lb'] = array(
+	'awssdk-desc' => "Plugin fir d'Benotze vun den Amazon Web Servicen SDK fir PHP",
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */

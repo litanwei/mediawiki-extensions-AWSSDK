@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Bjankuloski06"
+        ]
+    },
+    "awssdk-desc": "Приклучок што користи Amazon Web Services SDK за PHP"
+}

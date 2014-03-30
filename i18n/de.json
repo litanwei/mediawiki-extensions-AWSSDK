@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Metalhead64"
+        ]
+    },
+    "awssdk-desc": "Plugin zur Verwendung des Amazon-Web-Services-SDK für PHP"
+}

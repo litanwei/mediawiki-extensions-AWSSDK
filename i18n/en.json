@@ -1,0 +1,6 @@
+{
+    "@metadata": {
+        "authors": []
+    },
+    "awssdk-desc": "Plugin for using the Amazon Web Services SDK for PHP"
+}

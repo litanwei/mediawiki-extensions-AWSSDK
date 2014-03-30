@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Southparkfan"
+        ]
+    },
+    "awssdk-desc": "Plug-in voor het gebruiken van Amazon Web Services SDK voor PHP"
+}

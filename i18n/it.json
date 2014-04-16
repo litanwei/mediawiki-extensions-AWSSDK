@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Beta16"
-        ]
-    },
-    "awssdk-desc": "Plugin per l'utilizzo di Amazon Web Services SDK per PHP"
+	"@metadata": {
+		"authors": [
+			"Beta16"
+		]
+	},
+	"awssdk-desc": "Plugin per l'utilizzo di Amazon Web Services SDK per PHP"
 }

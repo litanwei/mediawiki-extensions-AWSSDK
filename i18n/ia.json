@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "McDutchie"
-        ]
-    },
-    "awssdk-desc": "Modulo pro utilisar le SDK de Amazon Web Services pro PHP"
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"awssdk-desc": "Modulo pro utilisar le SDK de Amazon Web Services pro PHP"
 }

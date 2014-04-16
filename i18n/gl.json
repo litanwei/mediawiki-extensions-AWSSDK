@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Toliño"
-        ]
-    },
-    "awssdk-desc": "Complemento para utilizar o SDK para o PHP dos servizos web de Amazon"
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"awssdk-desc": "Complemento para utilizar o SDK para o PHP dos servizos web de Amazon"
 }

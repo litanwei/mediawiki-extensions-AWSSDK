@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Andriykopanytsia",
-            "Ата"
-        ]
-    },
-    "awssdk-desc": "Плагін для використання Amazon Web Services SDK під PHP"
+	"@metadata": {
+		"authors": [
+			"Andriykopanytsia",
+			"Ата"
+		]
+	},
+	"awssdk-desc": "Плагін для використання Amazon Web Services SDK під PHP"
 }

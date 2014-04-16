@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Joseph"
-        ]
-    },
-    "awssdk-desc": "PHP için Amazon Web Servisleri SDK'sı kullanmak için eklenti"
+	"@metadata": {
+		"authors": [
+			"Joseph"
+		]
+	},
+	"awssdk-desc": "PHP için Amazon Web Servisleri SDK'sı kullanmak için eklenti"
 }

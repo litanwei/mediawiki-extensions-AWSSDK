@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Cainamarques"
-        ]
-    },
-    "awssdk-desc": "Plugin para a utilização do Amazon Web Services SDK para PHP"
+	"@metadata": {
+		"authors": [
+			"Cainamarques"
+		]
+	},
+	"awssdk-desc": "Plugin para a utilização do Amazon Web Services SDK para PHP"
 }

@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "LittleGun"
-        ]
-    },
-    "awssdk-desc": "Insticksmodul till Amazon Web Services SDK för PHP"
+	"@metadata": {
+		"authors": [
+			"LittleGun"
+		]
+	},
+	"awssdk-desc": "Insticksmodul till Amazon Web Services SDK för PHP"
 }

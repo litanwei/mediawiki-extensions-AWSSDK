@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Gomoko"
-        ]
-    },
-    "awssdk-desc": "Module complémentaire pour utiliser le SDK pour PHP des services web d’Amazon"
+	"@metadata": {
+		"authors": [
+			"Gomoko"
+		]
+	},
+	"awssdk-desc": "Module complémentaire pour utiliser le SDK pour PHP des services web d’Amazon"
 }

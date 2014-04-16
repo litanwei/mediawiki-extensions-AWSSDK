@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Alvaro Vidal-Abarca"
-        ]
-    },
-    "awssdk-desc": "Extensió per utilitzar l'SDK d'Amazon Web Services per PHP"
+	"@metadata": {
+		"authors": [
+			"Alvaro Vidal-Abarca"
+		]
+	},
+	"awssdk-desc": "Extensió per utilitzar l'SDK d'Amazon Web Services per PHP"
 }

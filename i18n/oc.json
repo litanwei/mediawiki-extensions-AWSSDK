@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Cedric31"
-        ]
-    },
-    "awssdk-desc": "Modul complementari per utilizar lo SDK per PHP dels servicis web d’Amazon"
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"awssdk-desc": "Modul complementari per utilizar lo SDK per PHP dels servicis web d’Amazon"
 }

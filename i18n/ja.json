@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Shirayuki"
-        ]
-    },
-    "awssdk-desc": "Amazon Web Services SDK for PHP を使用するためのプラグイン"
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"awssdk-desc": "Amazon Web Services SDK for PHP を使用するためのプラグイン"
 }

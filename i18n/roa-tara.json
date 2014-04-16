@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Joetaras"
-        ]
-    },
-    "awssdk-desc": "Plugin pe ausà l'SDK pe le Site Web de Amazon pe PHP"
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"awssdk-desc": "Plugin pe ausà l'SDK pe le Site Web de Amazon pe PHP"
 }

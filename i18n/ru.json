@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Okras"
-        ]
-    },
-    "awssdk-desc": "Плагин для использования Amazon Web Services SDK для PHP"
+	"@metadata": {
+		"authors": [
+			"Okras"
+		]
+	},
+	"awssdk-desc": "Плагин для использования Amazon Web Services SDK для PHP"
 }

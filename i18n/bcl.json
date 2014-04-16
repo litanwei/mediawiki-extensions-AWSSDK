@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Geopoet"
-        ]
-    },
-    "awssdk-desc": "Panaksakan para sa paggagamit sa mga Serbisyo kan Amazon Web na SDK para sa PHP"
+	"@metadata": {
+		"authors": [
+			"Geopoet"
+		]
+	},
+	"awssdk-desc": "Panaksakan para sa paggagamit sa mga Serbisyo kan Amazon Web na SDK para sa PHP"
 }

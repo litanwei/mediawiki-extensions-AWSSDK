@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Liuxinyu970226"
-        ]
-    },
-    "awssdk-desc": "为PHP使用亚马逊网际网络服务SDK的插件"
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226"
+		]
+	},
+	"awssdk-desc": "为PHP使用亚马逊网际网络服务SDK的插件"
 }

@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Michawiki"
-        ]
-    },
-    "awssdk-desc": "Tykač za wužiwanje Amazon Web Services SDK za PHP"
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"awssdk-desc": "Tykač za wužiwanje Amazon Web Services SDK za PHP"
 }

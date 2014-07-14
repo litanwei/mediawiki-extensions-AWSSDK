@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arifin.wijaya"
+		]
+	},
+	"awssdk-desc": "Plugin untuk menggunakan Amazon Web Services SDK untuk PHP"
+}

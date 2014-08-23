@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"VegaDark"
+			"VegaDark",
+			"Macofe"
 		]
 	},
-	"awssdk-desc": "Plugin para usar el SDK de Amazon Web Services para PHP"
+	"awssdk-desc": "Complemento para usar el SDK de Amazon Web Services para PHP"
 }

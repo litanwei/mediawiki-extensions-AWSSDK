@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dinhxuanduyet"
+		]
+	},
+	"awssdk-desc": "Plugin dành cho việc sử dụng Amazon Web Services SDK cho PHP"
+}

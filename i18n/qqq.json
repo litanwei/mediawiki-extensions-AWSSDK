@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shirayuki"
+			"Shirayuki",
+			"Umherirrender"
 		]
 	},
-	"awssdk-desc": "{{desc|name=AWS SDK|url=http://www.mediawiki.org/wiki/Extension:AWSSDK}}"
+	"awssdk-desc": "{{desc|name=AWS SDK|url=https://www.mediawiki.org/wiki/Extension:AWSSDK}}"
 }

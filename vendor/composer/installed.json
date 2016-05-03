@@ -6,12 +6,12 @@
         "target-dir": "Symfony/Component/EventDispatcher",
         "source": {
             "type": "git",
-            "url": "https://github.com/symfony/EventDispatcher",
+            "url": "https://github.com/symfony/event-dispatcher.git",
             "reference": "v2.1.7"
         },
         "dist": {
             "type": "zip",
-            "url": "https://github.com/symfony/EventDispatcher/archive/v2.1.7.zip",
+            "url": "https://api.github.com/repos/symfony/event-dispatcher/zipball/v2.1.7",
             "reference": "v2.1.7",
             "shasum": ""
         },
@@ -56,18 +56,18 @@
         "version_normalized": "3.1.2.0",
         "source": {
             "type": "git",
-            "url": "https://github.com/guzzle/guzzle",
+            "url": "https://github.com/guzzle/guzzle.git",
             "reference": "v3.1.2"
         },
         "dist": {
             "type": "zip",
-            "url": "https://github.com/guzzle/guzzle/archive/v3.1.2.zip",
+            "url": "https://api.github.com/repos/guzzle/guzzle/zipball/v3.1.2",
             "reference": "v3.1.2",
             "shasum": ""
         },
         "require": {
-            "php": ">=5.3.2",
             "ext-curl": "*",
+            "php": ">=5.3.2",
             "symfony/event-dispatcher": ">=2.1"
         },
         "replace": {
@@ -95,13 +95,13 @@
         },
         "require-dev": {
             "doctrine/common": "*",
-            "symfony/class-loader": "*",
             "monolog/monolog": "1.*",
-            "zendframework/zend-cache": "2.0.*",
-            "zendframework/zend-log": "2.0.*",
-            "zend/zend-log1": "1.12",
+            "phpunit/phpunit": "3.7.*",
+            "symfony/class-loader": "*",
             "zend/zend-cache1": "1.12",
-            "phpunit/phpunit": "3.7.*"
+            "zend/zend-log1": "1.12",
+            "zendframework/zend-cache": "2.0.*",
+            "zendframework/zend-log": "2.0.*"
         },
         "time": "2013-01-28 00:07:40",
         "type": "library",
@@ -135,12 +135,12 @@
         "description": "Guzzle is a PHP HTTP client library and framework for building RESTful web service clients",
         "homepage": "http://guzzlephp.org/",
         "keywords": [
-            "framework",
-            "curl",
-            "http",
-            "rest",
-            "http client",
             "client",
+            "curl",
+            "framework",
+            "http",
+            "http client",
+            "rest",
             "web service"
         ]
     },
@@ -150,25 +150,25 @@
         "version_normalized": "2.1.0.0",
         "source": {
             "type": "git",
-            "url": "https://github.com/aws/aws-sdk-php",
+            "url": "https://github.com/aws/aws-sdk-php.git",
             "reference": "2.1.0"
         },
         "dist": {
             "type": "zip",
-            "url": "https://github.com/aws/aws-sdk-php/archive/2.1.0.zip",
+            "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/2.1.0",
             "reference": "2.1.0",
             "shasum": ""
         },
         "require": {
-            "php": ">=5.3.2",
-            "guzzle/guzzle": ">=3.1.2,<3.2"
+            "guzzle/guzzle": ">=3.1.2,<3.2",
+            "php": ">=5.3.2"
         },
         "require-dev": {
-            "symfony/class-loader": "2.*",
             "doctrine/common": "2.3.*",
-            "monolog/monolog": "1.2.*",
             "ext-apc": "*",
-            "phpunit/phpunit": "3.7.*"
+            "monolog/monolog": "1.2.*",
+            "phpunit/phpunit": "3.7.*",
+            "symfony/class-loader": "2.*"
         },
         "time": "2013-01-29 05:41:56",
         "type": "library",
@@ -192,11 +192,11 @@
         "homepage": "http://aws.amazon.com/sdkforphp2",
         "keywords": [
             "amazon",
-            "s3",
-            "sdk",
             "aws",
             "dynamodb",
-            "ec2"
+            "ec2",
+            "s3",
+            "sdk"
         ]
     }
 ]

@@ -1,4 +1,6 @@
 {
+	"name": "mediawiki/awssdk",
+	"description": "Provides Amazon Web Services SDK",
 	"require": {
 		"aws/aws-sdk-php": "2.*"
 	},
